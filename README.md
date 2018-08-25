@@ -1,5 +1,5 @@
 # workspace_booking
-An expo based meeting rooms booking app on react native and blockchain
+An expo based meeting rooms booking mmobile app on react native and blockchain.
 
 Install expo globally :-
 npm i -g expo
